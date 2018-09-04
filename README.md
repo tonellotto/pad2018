@@ -80,7 +80,7 @@ The following list of topics is subject to change.
 |Datacenters & Cloud | Big data and large scale problems. The Cloud paradigm and the datacenter as a computer.| [BCH] Chapters 1 and 4. |
 | MapReduce Programming Model | Basics, partitioners, combiners, design patterns, I/O, physical execution, data storage | [MMD] Chapter 2, [LIN] Chapters 1.2, 2,  3.1, 3.2, 3.3, 3.4, 5.1 and 5.2.|
 | Programming in Hadoop | Installation and configuration, I/O, interfaces, types and formats. | [TW] |
-| Algorithms in MapReduce: | Real-world problems solved with MapReduce: PageRank, Inverted Indexing, <s>Near Duplicate Detection</s> | [LIN] Chapters 4.1, 4.2, 4.3, 4.4 and 5.3. <s>[MMD] Chapters 3.1, 3.2, 3.3. and 3.4.</s>s> |
+| Algorithms in MapReduce: | Real-world problems solved with MapReduce: PageRank, Inverted Indexing | [LIN] Chapters 4.1, 4.2, 4.3, 4.4 and 5.3. |
 | Data models, representation and storage| Relational, document and graph models, SS Tables, LSM trees, format and encoding of data (Thrift, Avro, Protocol buffers) | [DDIA], Chapters 3 and 4.|
 | Data management and replication | Leaders and followers, single leader and multi leader replication, leaderless replication, consistent hashing | [DDIA] Chapter 5.|
 | Data Consistency & Consensus | Consistency Models, Eventual Consistency, Consensus, FLP and CAP Theorem, PAXOS.| Slides, Notes and Papers. |
