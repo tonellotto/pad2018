@@ -68,6 +68,7 @@ During the oral test you will have to answer queries on your final project and t
 |Date|Lecture|Topics|Slides|
 |:--:|:-----:|------|:----:|
 |18/09| 16 - 18 | Introduction, Clouds and Datacenter. | [Slides (PDF)](./slides/introduction.pdf)|
+|21/09|  9 - 11 | MapReduce: challenges, difficulties, design ideas. Programming model: mappers, reducers, shuffle and sort. Word count example. | [Slides (PDF)](./slides/mr1.pdf)|
 
 ## Project Proposal & Discussion
 
