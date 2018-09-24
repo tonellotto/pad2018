@@ -112,7 +112,7 @@ Hadoop can also be run on a single-node in a pseudo-distributed mode where each 
 
 4. Format a new distributed-filesystem:
 
-        hadoop@localhost$ in/hadoop namenode -format
+        hadoop@localhost$ bin/hadoop namenode -format
 
 5. Start the hadoop daemons:
 
