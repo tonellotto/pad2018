@@ -233,7 +233,7 @@ Version numbers can vary, we currently use version 1.2.1.
     <dependencies>
         <dependency>
             <groupId>org.apache.hadoop</groupId>
-            <artifactId>hadoop-common</artifactId>
+            <artifactId>hadoop-client</artifactId>
             <version>1.2.1</version>
         </dependency>
 
