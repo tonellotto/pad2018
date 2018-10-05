@@ -71,7 +71,7 @@ During the oral test you will have to answer queries on your final project and t
 |21/09|  9 - 11 | MapReduce: challenges, difficulties, design ideas. Programming model: mappers, reducers, shuffle and sort. Word count example. | [Slides (PDF)](./slides/mr1.pdf)|
 |24/09| 16 - 18 |  Hadoop execution modes, installation. HDFS command-line interface. | [Notes (MD)](./notes/hadoop-installation.md)|
 |28/09|  9 - 11 | Hadoop: basic classes (Mapper and Reducer), jobs, basic and complex data types, Word Count implementation in Hadoop. [Word Count](./code/wordcount) exercise. | [Slides (PDF)](./slides/mr2.pdf)|
-|01/10| 16 - 18 | Hadoop: shuffle and sort, MapReduce examples, partitioners and combiners. MapReduce Distributed Filesystems. | [Slides (PDF)](./slides/mr3.pdf)|
+|01/10| 16 - 18 | Hadoop: shuffle and sort, MapReduce examples, partitioners and combiners. MapReduce Distributed Filesystem. | [Slides (PDF)](./slides/mr3.pdf)|
 |05/10|  9 - 11 | [All Caps](./code/allcaps) exercise. [Find Bigram](./code/findbigram) exercise. [Search Word](./code/searchword) exercise. | |
 
 ## Project Proposal & Discussion
