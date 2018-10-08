@@ -5,9 +5,13 @@
 * Period: First semester
 * Language: English
 * Lectures schedule: Monday 16--18 (L1) and Friday 9--11 (X1).
-* Backup lectures: [to be discussed] 16--18 (CNR, Room C32)
+* Backup lectures: Thursday 9--11 (CNR, Room C32)
 * Question time: After lectures or by appointment
 * Email: nicola [dot] tonellotto [at] isti [dot] cnr [dot] it
+
+## BACKUP LECTURE
+
+**Thursday 11th October 2018 there will be a backup lecture at the professor's office, in the CNR Research Area, from 9 to 11. I'll wait at the Entrance 19 at 8:55.**
 
 ## Course Overview
 
@@ -73,6 +77,8 @@ During the oral test you will have to answer queries on your final project and t
 |28/09|  9 - 11 | Hadoop: basic classes (Mapper and Reducer), jobs, basic and complex data types, Word Count implementation in Hadoop. [Word Count](./code/wordcount) exercise. | [Slides (PDF)](./slides/mr2.pdf)|
 |01/10| 16 - 18 | Hadoop: shuffle and sort, MapReduce examples, partitioners and combiners. MapReduce Distributed Filesystem. | [Slides (PDF)](./slides/mr3.pdf)|
 |05/10|  9 - 11 | [All Caps](./code/allcaps) exercise. [Find Bigram](./code/findbigram) exercise. [Search Word](./code/searchword) exercise. | |
+|08/10| 16 - 18 | Hadoop Runtime & Scheduling. MapReduce Design Patterns: intermediate key-value space management, matrix multiplication, | [Slides (PDF)](./slides/mr4.pdf) [Slides (PDF)](./slides/mr5.pdf)|
+
 
 ## Project Proposal & Discussion
 
