@@ -77,8 +77,11 @@ During the oral test you will have to answer queries on your final project and t
 |28/09|  9 - 11 | Hadoop: basic classes (Mapper and Reducer), jobs, basic and complex data types, Word Count implementation in Hadoop. [Word Count](./code/wordcount) exercise. | [Slides (PDF)](./slides/mr2.pdf)|
 |01/10| 16 - 18 | Hadoop: shuffle and sort, MapReduce examples, partitioners and combiners. MapReduce Distributed Filesystem. | [Slides (PDF)](./slides/mr3.pdf)|
 |05/10|  9 - 11 | [All Caps](./code/allcaps) exercise. [Find Bigram](./code/findbigram) exercise. [Search Word](./code/searchword) exercise. | |
-|08/10| 16 - 18 | Hadoop Runtime & Scheduling. MapReduce Design Patterns: intermediate key-value space management, matrix multiplication, | [Slides (PDF)](./slides/mr4.pdf) [Slides (PDF)](./slides/mr5.pdf)|
-
+|08/10| 16 - 18 | Hadoop Runtime & Scheduling. MapReduce Design Patterns: intermediate key-value space management. | [Slides (PDF)](./slides/mr4.pdf) [Slides (PDF)](./slides/mr5.pdf)|
+|11/10| 09-11 | (Backup) MapReduce Design Patterns: matrix multiplication, relational operations. | [Slides (PDF)](./slides/mr6.pdf)|
+|12/10| 16-18 | LECTURE CANCELLED (disposizione del Rettore dell'Università di Pisa).
+|15/10| 16-18 ||
+|19/10| 16-18 | LECTURE CANCELLED (Professor out of office).
 
 ## Project Proposal & Discussion
 
