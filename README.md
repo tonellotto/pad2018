@@ -80,7 +80,7 @@ During the oral test you will have to answer queries on your final project and t
 |08/10| 16 - 18 | Hadoop Runtime & Scheduling. MapReduce Design Patterns: intermediate key-value space management. | [Slides (PDF)](./slides/mr4.pdf) [Slides (PDF)](./slides/mr5.pdf)|
 |11/10| 09-11 | (Backup) MapReduce Design Patterns: matrix multiplication, relational operations. | [Slides (PDF)](./slides/mr6.pdf)|
 |12/10| 16-18 | LECTURE CANCELLED (disposizione del Rettore dell'Università di Pisa).
-|15/10| 16-18 | Data representation: relational, document and graph models. OLTP and OLAP systems. Hash indexes and Log-structured Merge Trees.| [Slides (PDF)](./slides/dara1.pdf)|
+|15/10| 16-18 | Data representation: relational, document and graph models. OLTP and OLAP systems. Hash indexes and Log-structured Merge Trees.| [Slides (PDF)](./slides/data1.pdf)|
 |19/10| 16-18 | LECTURE CANCELLED (Professor out of office).
 
 ## Project Proposal & Discussion
