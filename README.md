@@ -78,11 +78,12 @@ During the oral test you will have to answer queries on your final project and t
 |01/10| 16 - 18 | Hadoop: shuffle and sort, MapReduce examples, partitioners and combiners. MapReduce Distributed Filesystem. | [Slides (PDF)](./slides/mr3.pdf)|
 |05/10|  9 - 11 | [All Caps](./code/allcaps) exercise. [Find Bigram](./code/findbigram) exercise. [Search Word](./code/searchword) exercise. | |
 |08/10| 16 - 18 | Hadoop Runtime & Scheduling. MapReduce Design Patterns: intermediate key-value space management. | [Slides (PDF)](./slides/mr4.pdf) [Slides (PDF)](./slides/mr5.pdf)|
-|11/10| 09-11 | (Backup) MapReduce Design Patterns: matrix multiplication, relational operations. | [Slides (PDF)](./slides/mr6.pdf)|
+|11/10| 9-11 | (Backup) MapReduce Design Patterns: matrix multiplication, relational operations. | [Slides (PDF)](./slides/mr6.pdf)|
 |12/10| 16-18 | LECTURE CANCELLED (disposizione del Rettore dell'Università di Pisa).
 |15/10| 16-18 | MapReduce Design Patterns: graph algorithms. Data representation: relational, document and graph models. OLTP and OLAP systems. Hash indexes and Log-structured Merge Trees. | [Slides (PDF)](./slides/data1.pdf)|
 |19/10| 16-18 | LECTURE CANCELLED (Professor out of office).
 |22/10| 16-18 | Log-structured Merge Trees. B-Trees. Column-oriented representation. Data encodings, serialization, backfard and forward compatibility. Examples in Thrifht, Protocol Buffers and Avro. | [Slides (PDF)](./slides/data2.pdf)|
+|26/10| 9-11 | [TF-IDF](./code/TF-IDF) exercise.| | |
 
 ## Project Proposal & Discussion
 
