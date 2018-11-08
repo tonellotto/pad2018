@@ -83,7 +83,8 @@ During the oral test you will have to answer queries on your final project and t
 |15/10| 16-18 | MapReduce Design Patterns: graph algorithms. Data representation: relational, document and graph models. OLTP and OLAP systems. Hash indexes and Log-structured Merge Trees. | [Slides (PDF)](./slides/data1.pdf)|
 |19/10| 16-18 | LECTURE CANCELLED (Professor out of office).
 |22/10| 16-18 | Log-structured Merge Trees. B-Trees. Column-oriented representation. Data encodings, serialization, backfard and forward compatibility. Examples in Thrifht, Protocol Buffers and Avro. | [Slides (PDF)](./slides/data2.pdf)|
-|26/10| 9-11 | [TF-IDF](./code/TF-IDF) exercise.| | |
+|26/10|  9-11 | [TF-IDF](./code/TF-IDF) exercise.| | |
+|05/11| 16-18 | Data Replication. Scalability, performance, availability. Distributed Systems model and correctness criteria. Consistency models: strict consistency, linearizability, sequential consistency. | [Slides (PDF)](./slides/replication1.pdf)|
 
 ## Project Proposal & Discussion
 
