@@ -85,6 +85,8 @@ During the oral test you will have to answer queries on your final project and t
 |22/10| 16-18 | Log-structured Merge Trees. B-Trees. Column-oriented representation. Data encodings, serialization, backfard and forward compatibility. Examples in Thrifht, Protocol Buffers and Avro. | [Slides (PDF)](./slides/data2.pdf)|
 |26/10|  9-11 | [TF-IDF](./code/TF-IDF) exercise.| | |
 |05/11| 16-18 | Data Replication. Scalability, performance, availability. Distributed Systems model and correctness criteria. Consistency models: strict consistency, linearizability, sequential consistency. | [Slides (PDF)](./slides/replication1.pdf)|
+|09/11|  9-11 | Replication models: passive and active replication. replication log and failures management. Replication models: active replications and quorum systems. Read and write quorums. Write conflits and management. Eventual consistency. Client-centric consistency models: read your writes and monotonic reads. | [Slides (PDF)](./slides/replication2.pdf)|
+|12/11| 16-18 | Physical and logical time. Time-line diagrams, haapened-before relation. Logical clocks: scalar and vector. Implementation. Cuts and consistent cuts. Chandy-Lamport algorithm for snapshots. | [Slides (PDF)](./slides/time.pdf)|
 
 ## Project Proposal & Discussion
 
