@@ -86,9 +86,12 @@ During the oral test you will have to answer queries on your final project and t
 |26/10|  9-11 | [TF-IDF](./code/TF-IDF) exercise.| | |
 |05/11| 16-18 | Data Replication. Scalability, performance, availability. Distributed Systems model and correctness criteria. Consistency models: strict consistency, linearizability, sequential consistency. | [Slides (PDF)](./slides/replication1.pdf)|
 |09/11|  9-11 | Replication models: passive and active replication. replication log and failures management. Replication models: active replications and quorum systems. Read and write quorums. Write conflits and management. Eventual consistency. Client-centric consistency models: read your writes and monotonic reads. | [Slides (PDF)](./slides/replication2.pdf)|
-|12/11| 16-18 | Physical and logical time. Time-line diagrams, haapened-before relation. Logical clocks: scalar and vector. Implementation. Cuts and consistent cuts. Chandy-Lamport algorithm for snapshots. | [Slides (PDF)](./slides/time.pdf)|
+|12/11| 16-18 | Physical and logical time. Time-line diagrams, happened-before relation. Logical clocks: scalar and vector. Implementation. Cuts and consistent cuts. Chandy-Lamport algorithm for snapshots. | [Slides (PDF)](./slides/time.pdf)|
 |16/11|  9-11 | [Secondary sort](./code/secondarysort) exercise.| | |
 |19/11| 16-18 | Coordination, agreement consensus. Consensus properties. FLP Theorem: system model and notations. | [Notes (PDF)](./notes/flp.pdf)
+|23/11|  9-11 | FLP Theorem: proof. CAP Theorem: sketch and consequences. | [Slides (PDF)](./slides/cap.pdf)
+|26/11| 16-18 | Paxos, | [Slides (PDF)](./slides/paxos.pdf)
+
 
 ## Project Proposal & Discussion
 
