@@ -90,7 +90,7 @@ During the oral test you will have to answer queries on your final project and t
 |16/11|  9-11 | [Secondary sort](./code/secondarysort) exercise.| | |
 |19/11| 16-18 | Coordination, agreement consensus. Consensus properties. FLP Theorem: system model and notations. | [Notes (PDF)](./notes/flp.pdf)
 |23/11|  9-11 | FLP Theorem: proof. CAP Theorem: sketch and consequences. | [Slides (PDF)](./slides/cap.pdf)
-|26/11| 16-18 | Paxos, | [Slides (PDF)](./slides/paxos.pdf)
+|26/11| 16-18 | Paxos. | [Slides (PDF)](./slides/paxos.pdf)
 
 
 ## Project Proposal & Discussion
