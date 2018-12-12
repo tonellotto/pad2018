@@ -92,7 +92,7 @@ During the oral test you will have to answer queries on your final project and t
 |23/11|  9-11 | FLP Theorem: proof. CAP Theorem: sketch and consequences. | [Slides (PDF)](./slides/cap.pdf)
 |26/11| 16-18 | Paxos. | [Slides (PDF)](./slides/paxos.pdf)
 |30/11|  9-11 | [Top N items](./code/topn) and [friends of friends](./code/friendship) exercises. | |
-|03/12| 16-18 | Randomized consensus algorithm. | |
+|03/12| 16-18 | Randomized consensus algorithm. | [Notes (PDF)](./notes/rca.pdf) |
 |07/12|  9-11 | Final projects discussion | |
 |10/12| 16-18 | Web infrastructures and crawling. Pagerank algorithm in MapReduce | [Slides (PDF)](./slides/crawling.pdf)|
 |14/12|  9-11 | Final projects discussion | |
